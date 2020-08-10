@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1597056269 source:d:\lab works c++\time complexity\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<ctime>
+	<cstdlib>
+
